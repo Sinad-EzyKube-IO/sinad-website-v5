@@ -1,0 +1,263 @@
+{
+  "hero": {
+    "title": "Simplifying Cloud & Kubernetes Excellence",
+    "subtitle": "To Empower, Not To Overwhelm",
+    "description": "Expert consulting and proprietary solutions that transform your infrastructure and operations",
+    "cta": "Learn More",
+    "secondaryCta": "Contact Us"
+  },
+  "about": {
+    "title": "About SINAD LLC",
+    "subtitle": "Your Trusted Partner in IT Innovation",
+    "description": "SINAD is a team of experienced and certified professionals specializing in Cloud, DevOps, and Kubernetes. Our expertise spans cloud-native, on-prem, and hybrid infrastructures. We have dealt with major telecommunications, warehouse, cybersecurity, and enterprise companies worldwide.",
+    "philosophy": "At SINAD, we empower businesses with powerful and efficient solutions that work with you, not against you. We go beyond solving today's problems—we prepare for tomorrow's challenges. We believe simplicity drives mastery. When technology is clear and straightforward, you stay in control, with peace of mind.",
+    "values": [
+      {
+        "icon": "🚀",
+        "title": "Innovation",
+        "description": "We're constantly exploring emerging technologies to provide cutting-edge solutions."
+      },
+      {
+        "icon": "🔧",
+        "title": "Expertise",
+        "description": "Our team consists of certified professionals with deep technical knowledge."
+      },
+      {
+        "icon": "🤝",
+        "title": "Partnership",
+        "description": "We work closely with clients to understand their unique needs and challenges."
+      },
+      {
+        "icon": "💡",
+        "title": "Simplicity",
+        "description": "We transform complex problems into elegant, user-friendly solutions."
+      }
+    ],
+    "stats": [
+      { "value": "98%", "label": "Client Satisfaction" },
+      { "value": "150+", "label": "Projects Delivered" },
+      { "value": "15+", "label": "Years Experience" },
+      { "value": "50+", "label": "Enterprise Clients" }
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive IT Solutions",
+    "description": "We provide end-to-end services for your cloud infrastructure, Kubernetes deployments, and DevOps implementations.",
+    "services": [
+      {
+        "icon": "cloud",
+        "title": "Cloud Consulting",
+        "description": "Strategic guidance for optimal cloud architecture, migration strategies, and multi-cloud environments.",
+        "features": ["Cloud architecture design", "Migration planning", "Cost optimization", "Security assessment"]
+      },
+      {
+        "icon": "kubernetes",
+        "title": "Kubernetes Expertise",
+        "description": "Specialized consulting and implementation services for container orchestration and Kubernetes environments.",
+        "features": ["Cluster setup & management", "Application deployment", "Performance tuning", "Security hardening"]
+      },
+      {
+        "icon": "devops",
+        "title": "DevOps Implementation",
+        "description": "End-to-end DevOps transformation with CI/CD pipelines, automation, and cultural guidance.",
+        "features": ["CI/CD pipeline setup", "Infrastructure as Code", "Monitoring solutions", "Team enablement"]
+      },
+      {
+        "icon": "security",
+        "title": "Cloud Security",
+        "description": "Comprehensive security solutions for your cloud infrastructure and Kubernetes deployments.",
+        "features": ["Security posture assessment", "Compliance automation", "Threat detection", "Zero-trust implementation"]
+      }
+    ],
+    "cta": {
+      "title": "Need Custom Solutions?",
+      "description": "We tailor our services to meet your specific requirements and challenges.",
+      "buttonText": "Contact Us"
+    }
+  },
+  "features": {
+    "title": "EzyKube",
+    "subtitle": "Simplifying Kubernetes Management",
+    "description": "Our flagship product designed to make Kubernetes accessible, manageable, and efficient for teams of all sizes.",
+    "mainFeatures": [
+      {
+        "title": "Intuitive Dashboard",
+        "description": "Visualize your entire Kubernetes infrastructure with our user-friendly dashboard that simplifies cluster management.",
+        "image": "dashboard"
+      },
+      {
+        "title": "One-Click Deployments",
+        "description": "Deploy applications to your Kubernetes clusters with simple, repeatable configurations and zero downtime.",
+        "image": "deployment"
+      },
+      {
+        "title": "Automated Scaling",
+        "description": "Intelligently scale your applications based on real-time metrics and predefined rules.",
+        "image": "scaling"
+      }
+    ],
+    "benefits": [
+      {
+        "icon": "speed",
+        "title": "50% Faster Deployment",
+        "description": "Reduce your deployment time and focus on innovation rather than infrastructure."
+      },
+      {
+        "icon": "cost",
+        "title": "30% Cost Reduction",
+        "description": "Optimize resource utilization and automatically scale down when not needed."
+      },
+      {
+        "icon": "security",
+        "title": "Enhanced Security",
+        "description": "Built-in security scanning and compliance checks for your applications."
+      },
+      {
+        "icon": "simplicity",
+        "title": "Reduced Complexity",
+        "description": "Abstract away Kubernetes complexities while maintaining full control."
+      }
+    ],
+    "cta": {
+      "title": "Ready to Simplify Kubernetes?",
+      "description": "Get started with EzyKube today and transform how you manage containerized applications.",
+      "primaryButton": "Request Demo",
+      "secondaryButton": "Learn More"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch",
+    "description": "Have questions about our services or want to learn more about EzyKube? Reach out to our team and we'll get back to you as soon as possible.",
+    "officeAddress": "123 Tech Park, Silicon Valley, CA 94043",
+    "email": "info@sinadllc.com",
+    "phone": "+1 (555) 123-4567",
+    "formLabels": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "company": "Company Name",
+      "message": "Your Message",
+      "submit": "Send Message"
+    },
+    "mapLocation": "San Francisco, CA",
+    "socialMedia": [
+      { "name": "LinkedIn", "url": "https://linkedin.com/company/sinad", "icon": "linkedin" },
+      { "name": "Twitter", "url": "https://twitter.com/sinadio", "icon": "twitter" },
+      { "name": "GitHub", "url": "https://github.com/sinadio", "icon": "github" }
+    ]
+  },
+  "footer": {
+    "companyName": "SINAD LLC",
+    "tagline": "Simplifying Cloud & Kubernetes Excellence",
+    "quickLinks": [
+      { "name": "Home", "href": "#hero" },
+      { "name": "About", "href": "#about" },
+      { "name": "Services", "href": "#services" },
+      { "name": "EzyKube", "href": "#features" },
+      { "name": "Contact", "href": "#contact" }
+    ],
+    "resources": [
+      { "name": "Documentation", "href": "#" },
+      { "name": "Blog", "href": "#" },
+      { "name": "Knowledge Base", "href": "#" },
+      { "name": "Case Studies", "href": "#" }
+    ],
+    "legal": [
+      { "name": "Privacy Policy", "href": "#" },
+      { "name": "Terms of Service", "href": "#" },
+      { "name": "Cookie Policy", "href": "#" }
+    ],
+    "socialMedia": [
+      { "name": "LinkedIn", "url": "https://linkedin.com/company/sinad", "icon": "linkedin" },
+      { "name": "Twitter", "url": "https://twitter.com/sinadio", "icon": "twitter" },
+      { "name": "GitHub", "url": "https://github.com/sinadio", "icon": "github" }
+    ],
+    "address": "123 Tech Park, Silicon Valley, CA 94043",
+    "email": "info@sinadllc.com"
+  },
+  "whySinad": {
+    "title": "Why SINAD",
+    "subtitle": "What Makes Us Different",
+    "description": "We believe the best technology is the one that works for you, not against you. Our approach is built on principles that ensure your success.",
+    "reasons": [
+      {
+        "icon": "clarity",
+        "title": "Clarity Over Complexity",
+        "description": "We make complex technologies understandable and accessible, ensuring you remain in control of your infrastructure."
+      },
+      {
+        "icon": "experience",
+        "title": "Deep Technical Experience",
+        "description": "Our team brings years of hands-on experience with enterprise-scale deployments and challenging technical environments."
+      },
+      {
+        "icon": "solutions",
+        "title": "Custom-Fit Solutions",
+        "description": "We don't believe in one-size-fits-all. Our solutions are tailored to your specific business needs and technical environment."
+      },
+      {
+        "icon": "partnership",
+        "title": "True Partnership",
+        "description": "We see ourselves as an extension of your team, working together toward shared goals and lasting success."
+      },
+      {
+        "icon": "innovation",
+        "title": "Practical Innovation",
+        "description": "We embrace new technologies not for their novelty, but for their practical benefits to your business operations."
+      },
+      {
+        "icon": "support",
+        "title": "Ongoing Support",
+        "description": "Our relationship doesn't end with implementation. We provide continuous support to ensure long-term success."
+      }
+    ]
+  },
+  "diagram": {
+    "title": "Our Solution Architecture",
+    "subtitle": "How SINAD Transforms Your Infrastructure",
+    "description": "Our comprehensive approach integrates seamlessly with your existing systems, providing end-to-end management for your cloud and Kubernetes deployments.",
+    "elements": [
+      {
+        "id": "users",
+        "title": "Users & Developers",
+        "description": "Your technical and business teams"
+      },
+      {
+        "id": "ezykube",
+        "title": "EzyKube Platform",
+        "description": "Our centralized management solution"
+      },
+      {
+        "id": "kubernetes",
+        "title": "Kubernetes Clusters",
+        "description": "Managed container orchestration"
+      },
+      {
+        "id": "cloud",
+        "title": "Cloud Infrastructure",
+        "description": "AWS, Azure, GCP, and hybrid environments"
+      },
+      {
+        "id": "monitoring",
+        "title": "Monitoring & Security",
+        "description": "End-to-end observability and protection"
+      },
+      {
+        "id": "apps",
+        "title": "Your Applications",
+        "description": "Business services and workloads"
+      }
+    ]
+  },
+  "navLinks": [
+    { "name": "Home", "href": "#hero" },
+    { "name": "About", "href": "#about" },
+    { "name": "Why SINAD", "href": "#whySinad" },
+    { "name": "Services", "href": "#services", "submenu": [
+      { "name": "Consulting", "href": "#services" },
+      { "name": "Ezykube", "href": "#features" }
+    ]},
+    { "name": "Contact", "href": "#contact" }
+  ]
+}
